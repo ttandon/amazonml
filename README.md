@@ -5,7 +5,6 @@ A machine learning program to predict the access needs of an amazon employee. Im
 
 To Run
 =====
-<br>
 Clone the Repo<br>
 cd feature<br>
 python lg2.py<br>
