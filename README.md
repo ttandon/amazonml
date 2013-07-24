@@ -5,13 +5,13 @@ A machine learning program to predict the access needs of an amazon employee. Im
 
 To Run
 =====
-\n
-Clone the Repo\n
-cd feature\n
-python lg2.py\n
-python rf2.py\n
-python average.py\n
-\n
+
+Clone the Repo
+cd feature
+python lg2.py
+python rf2.py
+python average.py
+
 
 Your final model submission will be in the output directory, titled avgpred.csv
 
