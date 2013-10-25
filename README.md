@@ -1,8 +1,8 @@
 amazonml
 ========
 
-A machine learning program to predict the access needs of an amazon employee. Implements a random forest ensemble combined with a logistic model.
-
+A machine learning program to predict the access needs of an amazon employee. Implements a random forest ensemble combined with Paul Duan's logistic model from
+Kaggle Forum. The code achieves higher accuracy by averaging the results.
 To Run
 =====
 Clone the Repo<br>
