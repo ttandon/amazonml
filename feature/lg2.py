@@ -1,4 +1,4 @@
-##based on Pual Duan's sample on Kaggle competion.
+##based on Pual Duan's sample on Kaggle competion forum http://www.kaggle.com/c/amazon-employee-access-challenge/forums/t/5283/winning-solution-code-and-methodology
 from __future__ import division
 
 import csv
