@@ -1,3 +1,4 @@
+##based on Pual Duan's sample on Kaggle competion.
 from __future__ import division
 
 import csv
